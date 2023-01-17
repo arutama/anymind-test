@@ -1,10 +1,8 @@
 
 # Information
-Web service binary code is located at `cmd` directory. Then internal and shared code are located in `src`.
-
-Protobuf schema is located at `schema` directory.
-
-Docker compose file is located at `docker` directory.
+ - Web service binary code is located at `cmd` directory.
+ - Internal and shared code are located in `src`.
+ - Docker compose file is located at `docker` directory.
 
 ## Compile
 This project include Makefile that can be used with `nmake` (Visual Studio NMake)
